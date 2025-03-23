@@ -1,8 +1,8 @@
 # FINC: Fourier-based Differential Clustering
 
-This repository provides an official implementation of a paper:
+This repository provides an official implementation of CVPR'25 paper:
 
- "Identification of Novel Modes in Generative Models via Fourier-based Differential Clustering"
+ "Unveiling Differences in Generative Models: A Scalable Differential Clustering Approach"
 
 Authors: Jingwei Zhang, Mohammad Jalali, Cheuk Ting Li, Farzan Farnia
 
